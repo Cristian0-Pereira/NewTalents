@@ -1708,6 +1708,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "New Talents/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/New Talents.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/New Talents.dll": {}
+        }
       }
     }
   },
@@ -5497,11 +5507,17 @@
         "xunit.runner.visualstudio.2.5.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "New Talents/1.0.0": {
+      "type": "project",
+      "path": "../New Talents/New Talents.csproj",
+      "msbuildProject": "../New Talents/New Talents.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.8.0",
+      "New Talents >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.5.3",
       "xunit.runner.visualstudio >= 2.5.3"
@@ -5531,7 +5547,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\New Talents\\New Talents.csproj": {
+              "projectPath": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\New Talents\\New Talents.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
