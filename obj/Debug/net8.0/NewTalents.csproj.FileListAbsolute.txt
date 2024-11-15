@@ -1,0 +1,15 @@
+D:\VSCode\estudos\DIO\Desafios\NewTalents\bin\Debug\net8.0\NewTalents.exe
+d:\VSCode\estudos\DIO\Desafios\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+d:\VSCode\estudos\DIO\Desafios\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+D:\VSCode\estudos\DIO\Desafios\NewTalents\bin\Debug\net8.0\NewTalents.dll
+D:\VSCode\estudos\DIO\Desafios\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.sourcelink.json
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.dll
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+D:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+d:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+d:\VSCode\estudos\DIO\Desafios\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
