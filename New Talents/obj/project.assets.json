@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\NewTalents.csproj",
-      "projectName": "NewTalents",
-      "projectPath": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\NewTalents.csproj",
+      "projectUniqueName": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\New Talents\\New Talents.csproj",
+      "projectName": "New Talents",
+      "projectPath": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\New Talents\\New Talents.csproj",
       "packagesPath": "C:\\Users\\crisn\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\obj\\",
+      "outputPath": "D:\\VSCode\\estudos\\DIO\\Desafios\\NewTalents\\New Talents\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisn\\AppData\\Roaming\\NuGet\\NuGet.Config"
